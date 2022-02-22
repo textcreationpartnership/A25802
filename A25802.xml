@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the proceedings of His Majesties army in Scotland with the manner of the taking of Argile, together with a defeat that the Lord Ross gave to a party of the rebels commanded by Sir John Cochran : and also the proceedings of His Majesties forces in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25802</idno>
+            <idno type="STC">Wing A368</idno>
+            <idno type="STC">ESTC R9719</idno>
+            <idno type="EEBO-CITATION">12091146</idno>
+            <idno type="OCLC">ocm 12091146</idno>
+            <idno type="VID">53883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 754:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the proceedings of His Majesties army in Scotland with the manner of the taking of Argile, together with a defeat that the Lord Ross gave to a party of the rebels commanded by Sir John Cochran : and also the proceedings of His Majesties forces in England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted by Andrew Crook and Samuel Helsham,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ross of Hawkhead, William Ross, --  Baron, 1656?-1738.</term>
+               <term>Cochrane, John, --  Sir, d. 1695?</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+               <term>Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53883:1"/>
+            <pb facs="tcp:53883:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT Of the Proceedings of His MAJESTIES Army In Scotland, With the Manner of the Taking of Argile, Together with a Defeat that the Lord Roſs gave to a Party of the Rebels Commanded by Sir John Cochran.</p>
+            <p>And Alſo The Proceedings of His Majeſties Forces In England.</p>
+            <p>Dublin, Reprinted by Andrew Crook and Samuel Helſham, and are to be Sold by Samuel Helſham at the Colledge-Arms in Caſtle-ſtreet: 1685:</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53883:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:53883:2"/>
+            <head>An Account of the Proceedings of His Majeſties Army in Scotland, &amp;c:</head>
+            <p>
+               <label>Edinburgh, June 18.</label> 
+               <hi>THurſday</hi> at Noon, We have an account this day that the late Earl of <hi>Argile,</hi> upon the notice he had of the arrival of his Majeſties Ships, had reſolved to cauſe his Ships and Boats to Sail into <hi>Lochſyne,</hi> but being detained by contrary winds, his Majeſties Ships, the <hi>King-Fiſher</hi> and <hi>Faulcon</hi> came up to the entrance of <hi>Lochrowan,</hi> where the Rebels Ships lay, by which they were ſo diſcouraged, that lay<g ref="char:EOLhyphen"/>ing aſide the deſign of ſailing into <hi>Lochfyne,</hi> they began upon the 10th. inſtant to fortifie a little Caſtle called <hi>Ellergreg,</hi> and a Rock that lies near to it in a little Iſland, for ſecuring their Ships in <hi>Lochrowan,</hi> which done, himſelf marched away to<g ref="char:EOLhyphen"/>wards the head of <hi>Lochfyne,</hi> leaving 150 men for the guard of the Ships, having firſt put his Cannon, Arms and Ammu<g ref="char:EOLhyphen"/>nition into the Caſtle. Upon the <hi>11th.</hi> a party of his Maje<g ref="char:EOLhyphen"/>ſties Forces, under the Command of the Marquiſs of <hi>Athol,</hi> conſiſting of 300 Foot, encountred a party of the Rebels of 400 Foot, and 80 Horſe, and defeated them; ſome of the Rebels being killed upon the place, ſeveral wounded, and ſome of their Horſes and Arms taken; upon which they marched back to <hi>Ellengreg,</hi> where they continued until the <hi>15th.</hi> at which time the Rebels having paſſed <hi>Lochlong,</hi> may<g ref="char:EOLhyphen"/>ched towards the <hi>Lenox</hi> in the Shire of <hi>Dumbarton.</hi> The ſame day his Majeſties Ships came up to the Caſtle, where the Rebels Arms and Ammunition ſtill ſtay, with a reſolution to batter it, and to deſtroy their Ships; but upon the firing of the firſt Gun two men came off in a Boat with a white Flag, and told them they might ſave their labour, for there were none to oppoſe them, all the Rebels having ſled; where<g ref="char:EOLhyphen"/>upon
+<pb n="4" facs="tcp:53883:3"/>they ſent a Boat on ſhore, and ſinding it to be ſo, took poſſeſſion of the Caſtle, Ships and Boats, with all the Arms, Ammunition, Cannon, <hi>&amp;c.</hi> A particular account whereof cannot be given at preſent, but what are already found, do amount to 5000 Arms, 500 barrels of Powder, with Ball and other Stores in proportion, beſides the Cannon, ſome where<g ref="char:EOLhyphen"/>of are mounted, and others ſunk, though eaſily recoverable. The Rebels had a deſign to blow up the Powder, but it was prevented. On the <hi>16th.</hi> they marched by the head of <hi>Gair<g ref="char:EOLhyphen"/>loch</hi> towards the Fords of the River <hi>Levin,</hi> betwixt <hi>Lochlo<g ref="char:EOLhyphen"/>mond,</hi> and the Town of <hi>Lumbarton</hi> On the <hi>17th.</hi> in the morn<g ref="char:EOLhyphen"/>ing the Earl of <hi>Dumbarton,</hi> having an account of their paſſing that River, and of their being entred into the Shire of <hi>Dum<g ref="char:EOLhyphen"/>barton,</hi> ſent 3 Troops of Dragoons to prevent their croſſing the River <hi>Clyde,</hi> under the Command of the Lord <hi>Charles Murray</hi> their Lieutenant Colonel, while the Earl of <hi>Dumbar<g ref="char:EOLhyphen"/>ton,</hi> with the Army under his Command is marching with with all diligence from <hi>Glaſcow</hi> towards the Rebels, who are about 12 miles diſtant, to attack them. The Rebels have the River of <hi>Clyde</hi> on the right hand (guarded by the afore<g ref="char:EOLhyphen"/>mentioned Dragoons, and the Troops of that Countrey) the Duke of <hi>Gordon</hi> on their leſt, and the Marquiſs of <hi>Athol</hi> in their Rear.</p>
+            <p>An Expreſs from the Marquiſs of <hi>Athol</hi> does inform us, that he met conſiderable numbers of the Rebels deſerting, not only for fear, but alſo for hunger, having no ſort of proviſi<g ref="char:EOLhyphen"/>ons: On the other part, the Noblemen and Gentlemen now in Arms for his Majeſties ſervice, ſhew great zeal and for<g ref="char:EOLhyphen"/>wardneſs, and when any of them are ſent home (their atten<g ref="char:EOLhyphen"/>dance being judged unneceſſary) they repine to be deprived of the Honour to ſerve his Majeſty upon this occaſion.</p>
+            <p>We have juſt now received Letters from the Borders, aſſu<g ref="char:EOLhyphen"/>ring us, that all is in perfect Peace there, both on the Scotch and Engliſh ſide.</p>
+            <p>
+               <label>Edinburgh, June 19.</label> This morning arrived an Expreſs with an account, That the Earl of <hi>Dumbarton,</hi> Commander in
+<pb n="5" facs="tcp:53883:3"/>chief of His Majeſties Forces in this Kingdom, having notice that the Rebels had paſſed the River <hi>Levin</hi> above <hi>Dumbar<g ref="char:EOLhyphen"/>ton,</hi> marched from <hi>Glaſcow</hi> the 17th very early in the morn<g ref="char:EOLhyphen"/>ing after them, they taking their way towards <hi>Sterling,</hi> and overtook them in the Pariſh of <hi>Killerne.</hi> The Horſe and Dragoons kept up the Rebels till the Foot arrived, but they were poſted in ſo ſtrong a Ground, and it was ſo late in the evening, that it was not thought ſit then to attacque them, ſo the Kings Army ſtood in batalia all night, to be ready ſo ſoon as day light appeared to fall upon them, but the Rebels with great ſilence marched off in the night towards the Ri<g ref="char:EOLhyphen"/>ver <hi>Clyde,</hi> which they ſwam with their Horſe, and carried over their Foot in Boats near a Village called <hi>Kilpatrick,</hi> and ſo got without much reſiſtance into <hi>Renfrew:</hi> The Kings Army miſſing the Rebels in the morning, marched with all diligence to <hi>Glaſcow,</hi> where, after they had reſted two hours, the Earl of <hi>Dumbarton</hi> with the Horſe and Dragoons march<g ref="char:EOLhyphen"/>ed after them, leaving the Foot to follow with all the haſte they could make.</p>
+            <p>
+               <label>Edinburgh, June 21.</label> On the 17th the Rebe's in the night paſſed the River <hi>Clyde,</hi> ſeveral having run away in the dark. At <hi>Renfrew</hi> Sir <hi>John Cochran</hi> undertook to provide Guides to carry them ſafe to <hi>Galloway;</hi> but they miſtaking their way, carried them into a Bog, where having loſt their horſes &amp; bag<g ref="char:EOLhyphen"/>gage, the Foot diſperſed into ſmall parties, whereupon the Earl of <hi>Dumbarton</hi> likewiſe divided the Kings Forces to pur<g ref="char:EOLhyphen"/>ſue them. The late Earl of <hi>Argyle</hi> returned towards <hi>Clyde,</hi> and was fallen upon by two of <hi>Greinocks</hi> Servants, but would not yield, firing at them when they called to him: He re<g ref="char:EOLhyphen"/>ceived a wound in the Head: upon which, not truſting his Horſe, he alighted and run into the water: The Noiſe brought out a Countryman, who run into the water after him, where he was almoſt up to the neck. He preſented his Piſtol to the Countryman, but it mis-ſerved, upon which the Countryman gave him a wound in the Head, which ſtunn'd him ſo as he fell, and in the falling call'd out, <hi>
+                  <g ref="char:V">Ʋ</g>nfor<g ref="char:EOLhyphen"/>tunate
+<pb n="6" facs="tcp:53883:4"/>Argyle;</hi> before he recover'd they took him, and car<g ref="char:EOLhyphen"/>ried him to their Commander. A Party of 40 Horſe com<g ref="char:EOLhyphen"/>manded by the Lord <hi>Roſs,</hi> with as many Dragoons com<g ref="char:EOLhyphen"/>manded by Captain <hi>Cleland,</hi> ſell upon a party of the ſtouteſt of the Rebels, commanded by Sir <hi>John Cochran,</hi> who had taken the way to the Sea; as the Kings Officers came up to them, they poſted themſelves within a ſmall Incloſure, in which they were covered Breaſt high; notwithſtanding whereof, the Lord <hi>Roſs</hi> Charged them; but the ground be<g ref="char:EOLhyphen"/>ing too ſtrong for the Horſe, and the Captain of the Dra<g ref="char:EOLhyphen"/>goons being killed in the coming up, the Lord <hi>Roſs</hi> ſlightly wounded, Sir <hi>Adam Blair</hi> ſhot through the Neck, and Sir <hi>William Wallace</hi> nf <hi>Craigie</hi> ſhot in the ſide, before the Dra<g ref="char:EOLhyphen"/>goons had time to come up on foot the Rebels had got into a Wood juſt behind the Incloſure; which the Kings Forces had ſo beſet, that the taking of all of them is not doubted. A Party of five of the Earl of <hi>Arrans</hi> Militia of <hi>Cledſdale</hi> took <hi>Rumbold</hi> the Malſter, and his Man, who fought deſperately, killing one Militia-man upon the place; <hi>Rumbold</hi> is wound<g ref="char:EOLhyphen"/>ed, but they think not mortally; and one Colonel <hi>Ayloff</hi> and about 200 more are already brought in Priſoners to <hi>Glaſcow,</hi> and there are more coming in from Parties who are ſtill a<g ref="char:EOLhyphen"/>broad in purſuit of the Rebels; and there is no doubt a good account will be given of them all. The Earl of <hi>Dumbarton</hi> with His Majeſties Forces are marched into the South to ob<g ref="char:EOLhyphen"/>ſerve the motions on the Borders, whilſt 3000 Highlanders are ordered into the Weſt, to ſecure that Country and to ſearch out the lurking holes the Rebels lie hid in. Juſt now the late Earl of <hi>Argile</hi> is brought hither from <hi>Glaſcow</hi> by the Water-Gate, all the way to the Caſtle being guarded by His Majeſties Company in this City, having his hands bound be<g ref="char:EOLhyphen"/>hind him, bare headed, and the Hangman going before him; he is now Priſoner in the Caſtle; Colonel <hi>Ayloff,</hi> who ſhould have been brought with him, the night before he ſhould have come from <hi>Glaſcow,</hi> ript his own Belly with a Penknife, ſo that his recovery is deſpaired of.</p>
+            <pb n="7" facs="tcp:53883:4"/>
+            <p>
+               <label>Whitehall, June 21.</label> WE have an account from <hi>Chard</hi> of the <hi>19th.</hi> inſtant, that my Lord <hi>Churchil,</hi> having upon his arrival there with his Majeſties Forces under his Command, ſent out Lieu<g ref="char:EOLhyphen"/>tenant <hi>Monaux</hi> with twenty commanded men, and a Quarter<g ref="char:EOLhyphen"/>maſter of the Earl of <hi>Oxfords</hi> Regiment, they came up within two miles of <hi>Taunton,</hi> with a party of the Rebels of the ſame number, and charging them, killed 12 of them upon the place, and wounded moſt of the reſt, and then perceiving another party of the Rebels, they retired. Lieutenant <hi>Monaux</hi> was ſhot in the head, ſo that he cannot live, and three of his men were wounded; this party of the Rebels were very well Ar<g ref="char:EOLhyphen"/>med, being their beſt men.</p>
+            <p>We are informed that the Rebels are between <hi>Taunton</hi> and <hi>Bridgewater.</hi> His Majeſties Forces commanded by the Earl of <hi>Feverſham,</hi> are marching towards them, and we doubt not to have in few days a very good account of them.</p>
+            <p>
+               <hi>June</hi> 24. The Rebels, according to the laſt account, were about <hi>Giaſſenbury;</hi> My Lord <hi>Churchill</hi> obſerving them narrowly with part of the Kings Forces, he ſent out the 22th inſtant a party of 40 Horſe from <hi>Langport,</hi> who met a Squadron of the Rebels of double the number and beat them into their Camp, The Duke of <hi>Albemarle,</hi> who hath put the Compa<g ref="char:EOLhyphen"/>nies into <hi>Lime,</hi> was with the Militia of <hi>Devon</hi> at <hi>Wellington</hi> about five miles from <hi>Taunton.</hi> The Duke of <hi>Somerſet</hi> was with the Militia of that County at <hi>Bath.</hi> The Duke of <hi>Beauſort</hi> with the Militia of <hi>Glouceſterſhire</hi> and ſome of the adjacent Counties at <hi>Briſtol,</hi> where all things were in a very good poſture, and the Inhabitants very forward and zealous to expreſs their Loyalty to His Majeſty. The Earl of <hi>Fe<g ref="char:EOLhyphen"/>verſham,</hi> Lieutenant-General of His Majeſties Forces, arrived on Monday laſt with a detachement of His Majeſties Horſe-Guards, of the Granadiers, of the Earl of <hi>Oxfords</hi> Regiment, and of the Dragoons, at <hi>Chippenham,</hi> where the Earl of
+<pb n="8" facs="tcp:53883:5"/>
+               <hi>Pembroke</hi> with the Militia of <hi>Wiltſhire</hi> joyned him; and the Militia of <hi>Hampſhire</hi> was expected the next day; The Duke of <hi>Grafton</hi> is likewiſe marching with 2000 men of His Majeſties Foot-Guards, followed by a Train of Artillery, to joyn the Earl of <hi>Feverſham;</hi> So that we may in few days expect a very good account of the Rebels.</p>
+            <p>We are informed by a Letter from Captain <hi>Trevanion,</hi> Commander of the <hi>Suadadoes,</hi> of the 20th inſtant, That at his arrival at <hi>Lime</hi> with His Majeſties Ships uner his com<g ref="char:EOLhyphen"/>mand, he found there two of the Rebels Ships, a Pink and a Dogger in the <hi>Cob;</hi> and 40 Barrels of Powder, and Back, Breaſt and Head-pieces for between 4 and 5000 men in the Town, which he ſecured, together with the ſaid Veſſels. The chief of the Corporation were made Priſoners by the Rebels, becauſe they would not be aſſiſting to them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:53883:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
